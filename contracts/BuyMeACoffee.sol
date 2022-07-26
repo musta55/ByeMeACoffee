@@ -59,6 +59,6 @@ To buy a coffee to contract owner
  */
     function getMemos() public view returns(Memo[] memory)
     {
-        return memos;
+        return  memos;
     }
 }
